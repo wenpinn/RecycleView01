@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animal_name">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Rat</item>
+        <item>Horse</item>
+        <item>Lion</item>
+        <item>Rabbit</item>
+        <item>Monkey</item>
+        <item>Bear</item>
+        <item>Dear</item>
+        <item>Snake</item>
+        <item>Tiger</item>
+    </string-array>
+    <string-array name="animal_desc">
+        <item>Cat are cute</item>
+        <item>Dog are faithful</item>
+        <item>Rat loves chesses</item>
+        <item>Horse have power</item>
+        <item>Lion is the king</item>
+        <item>Rabbit are very cute</item>
+        <item>Monkey are naughty</item>
+        <item>Bear love honey</item>
+        <item>Dear run fast</item>
+        <item>Snake are repties</item>
+        <item>Tiger is tiger</item>
+    </string-array>
+</resources>
